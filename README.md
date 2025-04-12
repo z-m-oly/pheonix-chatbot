@@ -1,6 +1,6 @@
-# Phoenix (Fullstack) - Portfolio Project
+# Phoenix (Fullstack)
 
-This project is a fullstack clone of Google's Gemini, built as a portfolio piece to showcase my skills in modern web development. It leverages Appwrite for backend services, including authentication and database management, and React with Vite for a fast and efficient frontend experience. Tailwind CSS is used for styling, providing a clean and responsive design.
+This project is a fullstack clone of Google's Gemini, built as a portfolio piece to showcase my skills in modern web development. It leverages Appwrite for backend services, including authentication and database management, and React with Vite for a fast and efficient frontend experience. Tailwind CSS is used for styling, providing a clean and responsive design. Check it out with this email:pheonix@email.com and password:password123
 
 ## Description
 
