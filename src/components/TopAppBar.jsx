@@ -35,7 +35,7 @@ import logout from '../utils/logout';
 
 import { IconBtn } from './Button';
 import Avatar from './Avatar';
-import Menu from './menu';
+import Menu from './Menu';
 import MenuItem from './MenuItem';
 import { LinearProgress } from './Progress';
 import Logo from './Logo';
