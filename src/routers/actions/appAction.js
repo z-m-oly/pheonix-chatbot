@@ -7,7 +7,7 @@
 
 import { account, databases } from '../../lib/appwrite';
 import { getConversationTitle, getAiResponse } from '../../api/googleAi';
-import GenerateID from '../../utils/generateID';
+import GenerateID from '../../utils/GenerateID';
 import { redirect } from 'react-router-dom';
 
 /**

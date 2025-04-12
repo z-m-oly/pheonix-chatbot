@@ -4,7 +4,7 @@
  */
 import { databases } from '../../lib/appwrite';
 import { getAiResponse } from '../../api/googleAi';
-import GenerateID from '../../utils/generateID';
+import GenerateID from '../../utils/GenerateID';
 
 const conversationAction = async ({ request, params }) => {
   const { conversationId } = params;
