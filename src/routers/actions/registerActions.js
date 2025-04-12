@@ -7,7 +7,7 @@ import { redirect } from 'react-router-dom';
  */
 
 import { account } from '../../lib/appwrite';
-import GenerateID from '../../utils/generateID';
+import GenerateID from '../../utils/GenerateID';
 
 const registerAction = async ({ request }) => {
   //retrieve the form data from the incoming request
