@@ -30,7 +30,7 @@ import conversationLoader from './loaders/conversationLoader';
  * ACTIONS
  */
 import registerAction from './actions/registerActions';
-import loginAction from './actions/LoginAction';
+import loginAction from './actions/loginAction';
 import resetLinkAction from './actions/resetLinkAction';
 import resetPasswordAction from './actions/resetPasswordAction';
 import appAction from './actions/appAction';
