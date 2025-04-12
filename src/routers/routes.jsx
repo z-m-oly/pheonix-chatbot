@@ -19,7 +19,7 @@ import RootError from '../pages/RootError';
 /**
  * Loders
  */
-import registerLoader from './loaders/RegisterLoader';
+import registerLoader from './loaders/registerLoader';
 import loginLoader from './loaders/loginLoader';
 import resetLinkLoader from './loaders/resetLinkLoder';
 import resetPasswordLoader from './loaders/resetPasswordLoader';
