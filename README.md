@@ -28,8 +28,8 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [repository URL]
-    cd [repository directory]
+    git clone https://github.com/z-m-oly/pheonix-chatbot.git
+    cd pheonix-chatbot
     ```
 2.  **Install dependencies:**
     ```bash
@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
     - Update the Appwrite configuration in your project with your Appwrite project ID and endpoint.
 4.  **Start the development server:**
     ```bash
-    npm run dev --port 3000
+    npm run dev 
     ```
 5.  Open your browser and navigate to `http://localhost:3000`.
 
